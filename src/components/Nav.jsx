@@ -8,9 +8,9 @@ const Nav = () => {
       </div>
      <div>
       <ul>
-        <li>about</li>
-        <li>another page</li>
-        <li>yet another page</li>
+        <li><a href='#'>About</a></li>
+        <li><a href='#'>another page</a></li>
+        <li><a href='#'>yet another page</a></li>
       </ul>
      </div>
     </nav>
